@@ -110,16 +110,8 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opengl" width="48" height="48" alt="OpenGL" />
-      <br>OpenGL
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
       <br>.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
