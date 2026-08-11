@@ -95,7 +95,11 @@
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-<!-- This section is auto-updated by the wakatime.yml workflow. Leave it as-is. -->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
