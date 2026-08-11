@@ -4,10 +4,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00B4DB,100:0083B0&height=220&section=header&text=Mahi%20Muqtadir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=20" width="100%"/>
 
   <br/>
-<!-- Python Code Typing Animation -->
+
+  <table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  <!-- Python Code Typing Animation -->
   <a href="https://github.com/tintin4003-ops">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=180&lines=def+init_developer()%3A;++++name+%3D+%22Mahi+Muqtadir%22;++++curiosity+%3D+%5B%22Image+Processing%22%2C+%22Medical+Imaging%22%5D;++++return+build_future(curiosity)" alt="Python Code Typing" />
   </a>
+
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+
+  </td>
+</tr>
+</table>
+
 
   <br/><br/>
   ```js
