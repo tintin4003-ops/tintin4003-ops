@@ -4,7 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00B4DB,100:0083B0&height=220&section=header&text=Mahi%20Muqtadir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=20" width="100%"/>
 
   <br/>
+<!-- Python Code Typing Animation -->
+  <a href="https://github.com/tintin4003-ops">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=180&lines=def+init_developer()%3A;++++name+%3D+%22Mahi+Muqtadir%22;++++curiosity+%3D+%5B%22Image+Processing%22%2C+%22Medical+Imaging%22%5D;++++return+build_future(curiosity)" alt="Python Code Typing" />
+  </a>
 
+  <br/><br/>
   ```js
   const aboutMe = {
     background: "BSc in CSE, American International University-Bangladesh (AIUB)",
