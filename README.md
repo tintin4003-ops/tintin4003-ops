@@ -88,58 +88,84 @@
 <h2 align="center">🛠️ Tools and Technologies</h2>
 
 <div align="center">
-<table align="center">
+
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++"/>
       <br>C++
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55" height="55" alt="C#"/>
       <br>C#
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
       <br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python"/>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>SQL Server
-    </td>
   </tr>
+
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP"/>
+      <br>PHP
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="SQL"/>
+      <br>SQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" alt=".NET"/>
       <br>.NET
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS"/>
+      <br>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
       <br>GitHub
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
       <br>VS Code
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/trello/0052CC" width="55" height="55" alt="Trello"/>
+      <br>Trello
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="55" height="55" alt="Figma"/>
+      <br>Figma
+    </td>
+    <td align="center" width="120">
+      &nbsp;
     </td>
   </tr>
 </table>
+
 </div>
 
 <br/>
