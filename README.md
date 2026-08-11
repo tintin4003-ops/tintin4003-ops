@@ -8,9 +8,7 @@
   ```js
   const aboutMe = {
     background: "BSc in CSE, American International University-Bangladesh (AIUB)",
-    building: "Merch Maniacs",
-    curiosity: "Image processing — underwater image restoration & medical imaging",
-    goal: "Building the tech of tomorrow! ✨"
+    curiosity: "Image processing — underwater image restoration & medical imaging"✨
   };
   ```
 
