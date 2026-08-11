@@ -92,17 +92,6 @@
 
 <br/>
 
-## ⏱️ WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br/>
 
 <h2 align="center">🛠️ Tools and Technologies</h2>
 
