@@ -15,7 +15,12 @@
   ```
 
   <br/>
+ <!-- Python Code Typing Animation for AI Focus -->
+  <a href="https://github.com/saidulislamshehab">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=180&lines=def+init_developer()%3A;++++name+%3D+%22Saidul%22;++++skills+%3D+%5B%22AI%22%2C+%22GenAI%22%2C+%22Web3%22%5D;++++return+build_future(skills)" alt="Python Code Typing" />
+  </a>
 
+  <br/>
 </div>
 
 <!-- Social icons -->
