@@ -1,0 +1,24 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    # Runs at 12 am  '0 0 * * *'
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_COMMIT: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          LANG_COUNT: 10
