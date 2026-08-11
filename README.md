@@ -15,12 +15,7 @@
   ```
 
   <br/>
- <!-- Python Code Typing Animation for AI Focus -->
-  <a href="https://github.com/tintin4003-ops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=180&lines=def+init_developer()%3A;++++name+%3D+%22Saidul%22;++++skills+%3D+%5B%22AI%22%2C+%22GenAI%22%2C+%22Web3%22%5D;++++return+build_future(skills)" alt="Python Code Typing" />
-  </a>
-
-  <br/>
+ 
 </div>
 
 <!-- Social icons -->
@@ -66,13 +61,6 @@
 <br/>
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tintin4003-ops&theme=radical&hide_border=false&show_icons=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintin4003-ops&theme=radical&hide_border=false&layout=compact" alt="Top Languages">
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tintin4003-ops/tintin4003-ops/output/github-contribution-grid-snake.svg" alt="snake contribution graph" style="max-width: 100%;">
