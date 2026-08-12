@@ -10,7 +10,7 @@
 <td width="50%" align="left">
   <!-- Python Code Typing Animation -->
   <a href="https://github.com/tintin4003-ops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=180&lines=def+init_developer()%3A;++++name+%3D+%22Mahi+Muqtadir%22;++++curiosity+%3D+%5B%22Image+Processing%22%2C+%22Medical+Imaging%22%5D;++++return+build_future(curiosity)" alt="Python Code Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=33E65B&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=180&lines=def+init_developer()%3A;++++Welcome+to+my+profile!;++++curiosity+%3D+%5B%22Image+Processing%22%2C+%22Medical+Imaging%22%5D;++++return+build_future(curiosity)" alt="Python Code Typing" />
   </a>
 
 
