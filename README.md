@@ -70,12 +70,10 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/tintin4003-ops/The-Baratie">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tintin4003-ops&repo=The-Baratie&theme=radical&hide_border=false" />
+  <a href="https://github.com/tintin4003-ops/The_Baratie">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tintin4003-ops&repo=The_Baratie&theme=radical&hide_border=false" />
   </a>
 </p>
-
-> **Note:** these pin cards read from repo names `Toonverse`, `Merchify`, and `The-Baratie` on GitHub. If your actual repo names differ (spaces, capitalization, hyphens), update the `repo=` value in each link above to match exactly, or the card will fail to load.
 
 <br/>
 
