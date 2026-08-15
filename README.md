@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Custom banner: name + desk photo -->
-  <img src="assets/banner.png" width="100%" alt="Mahi Muqtadir banner"/>
+  <img src="assets/banner.svg" width="100%" alt="Mahi Muqtadir banner"/>
 
   <br/><br/>
 
