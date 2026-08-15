@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00B4DB,100:0083B0&height=220&section=header&text=Mahi%20Muqtadir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=60&descSize=20" width="100%"/>
+  <!-- Custom banner: name + desk photo -->
+  <img src="assets/banner.png" width="100%" alt="Mahi Muqtadir banner"/>
 
-  <br/>
+  <br/><br/>
 
   <table align="center">
 <tr border="none">
