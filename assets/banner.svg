@@ -21,8 +21,7 @@
   <rect x="0" y="0" width="1500" height="380" fill="url(#darkFade)"/>
 
   <!-- name + subtitle -->
-  <text x="70" y="170" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="72" fill="#ffffff">Mahi Muqtadir</text>
-  <text x="70" y="228" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" fill="#d7f4fa">Full-Stack Developer&#160;&#160;|&#160;&#160;Image Processing Enthusiast</text>
+  <text x="70" y="200" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="72" fill="#ffffff">Mahi Muqtadir</text>
 
   <!-- animated moving wave, seamless loop -->
   <g>
