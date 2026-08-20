@@ -58,7 +58,15 @@
 </p>
 
 <br/>
+<h2 align="center">🔥 GitHub Streak</h2>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=tintin4003-ops&theme=dark&background=151515&border=E4E2E2&stroke=E4E2E2&ring=FB8C00&fire=FB8C00&currStreakLabel=FB8C00&sideNums=FEFEFE&sideLabels=FEFEFE&currStreakNum=FEFEFE&dates=9E9E9E"
+    alt="GitHub Streak Stats"
+    width="450"
+  />
+</p>
  ## 📌 Featured Projects <table align="center"> <tr> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/Toonverse">🎮 Toonverse</a></h3> A multiverse of childhood cartoons built with C++, OpenGL &amp; GLUT. <br/><br/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/> </td> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/Merchify">🛍️ Merchify</a></h3> A merchandise management system built with C#, .NET &amp; SQL Server. <br/><br/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> </td> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/The_Baratie">🍳 The Baratie</a></h3> A Java GUI application project. <br/><br/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> </td> </tr> </table> <br/>
 
 # 📊 GitHub Stats
