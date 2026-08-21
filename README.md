@@ -68,7 +68,18 @@
   />
 </p>
  ## 📌 Featured Projects <table align="center"> <tr> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/Toonverse">🎮 Toonverse</a></h3> A multiverse of childhood cartoons built with C++, OpenGL &amp; GLUT. <br/><br/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/> </td> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/Merchify">🛍️ Merchify</a></h3> A merchandise management system built with C#, .NET &amp; SQL Server. <br/><br/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> </td> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/The_Baratie">🍳 The Baratie</a></h3> A Java GUI application project. <br/><br/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> </td> </tr> </table> <br/>
+## 📊 GitHub Snapshot
 
+![](https://raw.githubusercontent.com/tintin4003-ops/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/tintin4003-ops/github-stats-transparent/output/generated/languages.svg)
+
+## 🎧 Spotify Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 # 📊 GitHub Stats
 
 <p align="center">
