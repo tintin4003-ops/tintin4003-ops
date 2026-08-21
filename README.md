@@ -67,6 +67,12 @@
     width="450"
   />
 </p>
+<!-- 🌐 TOP LANGUAGES CARD -->
+<p align="center">
+  <a href="https://github.com/tintin4003-ops">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintin4003-ops&theme=merko&layout=compact&border_color=599200&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
  ## 📌 Featured Projects <table align="center"> <tr> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/Toonverse">🎮 Toonverse</a></h3> A multiverse of childhood cartoons built with C++, OpenGL &amp; GLUT. <br/><br/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/> </td> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/Merchify">🛍️ Merchify</a></h3> A merchandise management system built with C#, .NET &amp; SQL Server. <br/><br/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> </td> <td width="33%" valign="top"> <h3><a href="https://github.com/tintin4003-ops/The_Baratie">🍳 The Baratie</a></h3> A Java GUI application project. <br/><br/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> </td> </tr> </table> <br/>
 
 # 📊 GitHub Stats
