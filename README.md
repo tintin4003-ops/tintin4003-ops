@@ -83,7 +83,19 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tintin4003-ops&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.bhagya.dev/graph?username=saidulislamshehab&custom_title=Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area_color=f8d866&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🌍 Global Contribution Insights
+
+<div align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/saidulislamshehab?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&weeks=50&theme=pink&widget_size=large&format=svg"
+    alt="3D Contribution Chart"
+    width="100%"
+  />
 </div>
 
 <br/>
