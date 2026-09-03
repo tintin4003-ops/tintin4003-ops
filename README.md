@@ -83,7 +83,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.bhagya.dev/graph?username=tintin4003-ops&custom_title=Contribution%20Graph&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area_color=f8d866&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tintin4003-ops&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </div>
 
 <br/>
