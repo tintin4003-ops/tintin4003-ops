@@ -69,7 +69,7 @@
 <p align="center">
   <img 
     height="200" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tintin4003-ops&theme=gruvbox_light&layout=compact" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tintin4003-ops&theme=gruvbox_light&layout=compact" 
     alt="Top Languages" 
   />
 </p>
